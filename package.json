@@ -1,0 +1,18 @@
+{
+  "name": "price",
+  "version": "1.0.0",
+  "description": "price of document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "il",
+  "license": "ISC",
+  "dependencies": {
+    "imagemagick": "^0.1.3",
+    "j-pdfjson": "^1.1.9",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^1.1.8",
+    "pdf2pic": "^1.3.3"
+  }
+}
